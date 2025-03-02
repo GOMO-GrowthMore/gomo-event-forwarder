@@ -1,4 +1,4 @@
-name: CI/CD for Growth More Event Consumer
+name: CI/CD for Growth More Event Forwarder
 
 on:
   push:
